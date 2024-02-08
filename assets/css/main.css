@@ -3094,7 +3094,7 @@ input, select, textarea {
 				font-size: 3.25em;
 			}
 
-			#header.alt > * {
+			/* #header.alt > * {
 				-moz-transition: opacity 3s ease;
 				-webkit-transition: opacity 3s ease;
 				-ms-transition: opacity 3s ease;
@@ -3104,9 +3104,9 @@ input, select, textarea {
 				-ms-transition-delay: 0.5s;
 				transition-delay: 0.5s;
 				opacity: 1;
-			}
+			} */
 
-			#header.alt .logo {
+			/* #header.alt .logo {
 				-moz-transition: opacity 1.25s ease, -moz-transform 0.5s ease;
 				-webkit-transition: opacity 1.25s ease, -webkit-transform 0.5s ease;
 				-ms-transition: opacity 1.25s ease, -ms-transform 0.5s ease;
@@ -3117,7 +3117,7 @@ input, select, textarea {
 				transition-delay: 0s;
 				display: block;
 				margin: 0 0 1.5em 0;
-			}
+			} */
 
 				#header.alt .logo img {
 					display: block;
@@ -3198,16 +3198,16 @@ input, select, textarea {
 
 		}
 
-		body.is-preload #header.alt > * {
+		/* body.is-preload #header.alt > * {
 			opacity: 0;
-		}
+		} */
 
-		body.is-preload #header.alt .logo {
+		/* body.is-preload #header.alt .logo {
 			-moz-transform: scale(0.8) rotate(-30deg);
 			-webkit-transform: scale(0.8) rotate(-30deg);
 			-ms-transform: scale(0.8) rotate(-30deg);
 			transform: scale(0.8) rotate(-30deg);
-		}
+		} */
 
 /* Nav */
 
